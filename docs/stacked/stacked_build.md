@@ -42,6 +42,7 @@ PCBs in Stacked kits come preflashed with VIA compatible firmware. But make sure
 ![](../images/stacked/11-first-stack.jpg)
 !!! Note
     Images from this point forward will not have legs assembled. Your stacked should have the legs assembled and attached to the bottom layer already.
+    
 1. Stack the next layer that is a ring with a usb cutout. It will look like this:
 ![](../images/stacked/12-usb-cutout-bits.jpg)
 1. Stack the full ring layer next. It will look like this:
@@ -50,6 +51,7 @@ PCBs in Stacked kits come preflashed with VIA compatible firmware. But make sure
 ![](../images/stacked/14-plate-insert.jpg)
 !!! Note
     Be careful inserting the plate+PCB assembly as the usb port can get caught. We recommend gently inserting the usb side first at an angle.
+    
 1. Add the three top layers. The smallest of the three top layers goes on top.
 ![](../images/stacked/15-top-layers.jpg)
 1. Screw in the top layers, making sure to keep it aligned. The side will look like this once done:
