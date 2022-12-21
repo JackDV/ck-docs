@@ -10,23 +10,15 @@ markdown_extensions:
 nav:
   - Back to Cannonkeys: 'https://cannonkeys.com'
   - Docs Home: index.md
-  - Resources: resources.md
-  - Hype V2 Guide: hype-v2.md
-  - PCB Troubleshooting: troubleshooting.md
-  - Brutal Series Keyboards:
-    - Brutalist V1 Build Guide: brutal/brutal_build.md
-    - Brutalist V2 Build Guide: brutal-v2-build-guide.md
-  - Bakeneko Build Guide: bakeneko.md
-  - Stacked Kits:
-    - Build Guide: stacked/stacked_build.md
-    - BOMs: stacked/stacked_boms.md
   - General HOWTOs:
     - PCB Basics: pcb_basics.md
     - Adding RGB Underglow: rgb_underglow.md
     - Removing PCB Rails: removing_pcb_rails.md
     - VIA .json Loading: via-json-loading.md
-  - Instant60: instant60.md
-  - AN-C: an_c.md
+  - PCB Troubleshooting: troubleshooting.md
+  - Bakeneko Build Guide: bakeneko.md
+  - Brutalist V1 Build Guide: brutal/brutal_build.md
+  - Brutalist V2 Build Guide: brutal-v2-build-guide.md
   - Sagittarius Build Guide: sagittarius-guide.md
   - Satisfaction75:
     - Build Guide: satisfaction75/build_guide.md 
@@ -39,6 +31,13 @@ nav:
   - Balance:
     - Build Guide: balance/build_guide.md
     - Resources: balance/resources.md
+  - Stacked Kits:
+    - Build Guide: stacked/stacked_build.md
+    - BOMs: stacked/stacked_boms.md
+  - Resources: resources.md
+  - Hype V2 Guide: hype-v2.md
+  - Instant60: instant60.md
+  - AN-C: an_c.md
   - Bluepill Kits:
     - Build Guide: bluepill-build.md
     - Testing your Bluepill: bluepill-test.md
